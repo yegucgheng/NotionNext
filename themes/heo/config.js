@@ -13,7 +13,7 @@ const CONFIG = {
   HERO_TITLE_1: '兴趣分享',
   HERO_TITLE_2: '思维认知',
   HERO_TITLE_3: 'NMYLAW.COM',
-  HERO_TITLE_4: '新内容',
+  HERO_TITLE_4: '值得期待',
   HERO_TITLE_5: '多媒体内容',
   HERO_TITLE_LINK: 'https://nmylaw.com',
 
