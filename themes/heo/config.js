@@ -101,7 +101,7 @@ const CONFIG = {
   SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   SOCIAL_CARD_TITLE_1: '交流频道',
   SOCIAL_CARD_TITLE_2: '有感兴趣的话题可以与我交流',
-  SOCIAL_CARD_TITLE_3: '点击与我联系',
+  SOCIAL_CARD_TITLE_3: 'niemingyuee@gmail.com',
   SOCIAL_CARD_URL: 'https://nmylaw.com',
 
   // *****  以下配置无效，只是预留开发 ****
