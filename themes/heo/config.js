@@ -10,10 +10,10 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '兴趣分享',
-  HERO_TITLE_2: '思维认知',
-  HERO_TITLE_3: 'NMYLAW.COM',
-  HERO_TITLE_4: '值得期待',
+  HERO_TITLE_1: '无限未知',
+  HERO_TITLE_2: '无限待知',
+  HERO_TITLE_3: '1+∞=∞',
+  HERO_TITLE_4: '点我 除了一朵烟花 暂时什么也获得不了',
   HERO_TITLE_5: '多媒体内容',
   HERO_TITLE_LINK: 'https://nmylaw.com',
 
@@ -28,7 +28,7 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
-    '你好！我是',
+    'Hi 你好！我是',
     '🔍 分享与热心帮助',
     '🤝 专修交互与设计',
     '🏃 脚踏实地行动派',
@@ -36,7 +36,7 @@ const CONFIG = {
     '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
   ],
-  INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
+  INFO_CARD_URL: 'https://github.com', // 个人资料底部按钮链接
 
   // 用户技能图标
   GROUP_ICONS: [
