@@ -19,7 +19,7 @@ const CONFIG = {
 
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '兴趣分享', url: '/tag/兴趣分享' },
-  HERO_CATEGORY_2: { title: '专业文章', url: '/tag/专业文章' },
+  HERO_CATEGORY_2: { title: '专业分享', url: '/tag/专业分享' },
   HERO_CATEGORY_3: { title: '生活记录', url: '/tag/生活记录' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
