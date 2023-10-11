@@ -1,12 +1,12 @@
 const CONFIG = {
   HOME_BANNER_ENABLE: true,
 
-  SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  SITE_CREATE_TIME: '2023-10-1', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
     { title: '欢迎来到我的网站', url: 'https://nmylaw.com' },
-    { title: '可以点我也可以向下滑', url: 'https://nmylaw.com' }
+    { title: 'Existence is to be perceived', url: 'https://nmylaw.com' }
   ],
 
   // 英雄区(首页顶部大卡)
@@ -18,9 +18,9 @@ const CONFIG = {
   HERO_TITLE_LINK: 'https://nmylaw.com',
 
   // 英雄区显示三个置顶分类
-  HERO_CATEGORY_1: { title: '兴趣分享', url: '/tag/兴趣分享' },
-  HERO_CATEGORY_2: { title: '专业分享', url: '/tag/专业分享' },
-  HERO_CATEGORY_3: { title: '生活记录', url: '/tag/生活记录' },
+  HERO_CATEGORY_1: { title: 'What I like', url: '/tag/I like' },
+  HERO_CATEGORY_2: { title: 'What I do', url: '/tag/I do' },
+  HERO_CATEGORY_3: { title: 'What now', url: '/tag/now' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HERO_RECOMMEND_POST_TAG: '推荐',
