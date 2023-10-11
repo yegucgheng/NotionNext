@@ -99,8 +99,8 @@ const CONFIG = {
   ],
 
   SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  SOCIAL_CARD_TITLE_1: '交流频道',
-  SOCIAL_CARD_TITLE_2: '感兴趣的话题与我交流',
+  SOCIAL_CARD_TITLE_1: '欢迎交流 🆔',
+  SOCIAL_CARD_TITLE_2: 'Thanks for reading',
   SOCIAL_CARD_TITLE_3: '微信: 131 2177 6999 ',
   SOCIAL_CARD_URL: 'https://nmylaw.com',
 
