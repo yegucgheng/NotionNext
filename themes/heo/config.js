@@ -14,7 +14,7 @@ const CONFIG = {
   HERO_TITLE_2: '无限待知',
   HERO_TITLE_3: '1+∞=∞',
   HERO_TITLE_4: '点我 除了一朵烟花 暂时什么也获得不了',
-  HERO_TITLE_5: '多媒体内容',
+  HERO_TITLE_5: 'Nothing here',
   HERO_TITLE_LINK: 'https://nmylaw.com',
 
   // 英雄区显示三个置顶分类
@@ -28,7 +28,7 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
-    '点下试试？你好啊，我是',
+    'Hello! 你好啊，我是',
     '📚 爱学新知与技能',
     '🤺 喜欢运动与锻炼',
     '🏃 脚踏实地行动派',
@@ -99,8 +99,8 @@ const CONFIG = {
   ],
 
   SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  SOCIAL_CARD_TITLE_1: '欢迎交流 🆔',
-  SOCIAL_CARD_TITLE_2: 'Thanks for reading',
+  SOCIAL_CARD_TITLE_1: '欢迎交流',
+  SOCIAL_CARD_TITLE_2: 'Thanks for reading!',
   SOCIAL_CARD_TITLE_3: '微信: 131 2177 6999 ',
   SOCIAL_CARD_URL: 'https://nmylaw.com',
 
