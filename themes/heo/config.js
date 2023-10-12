@@ -13,8 +13,8 @@ const CONFIG = {
   HERO_TITLE_1: '无限未知',
   HERO_TITLE_2: '无限待知',
   HERO_TITLE_3: '1+∞=∞',
-  HERO_TITLE_4: '除了一朵烟花 暂时什么也获得不了',
-  HERO_TITLE_5: 'Nothing here',
+  HERO_TITLE_4: 'once said',
+  HERO_TITLE_5: 'Less is more',
   HERO_TITLE_LINK: 'https://nmylaw.com',
 
   // 英雄区显示三个置顶分类
